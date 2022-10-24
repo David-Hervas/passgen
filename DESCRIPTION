@@ -4,8 +4,8 @@ Title: Password encoder
 Version: 0.1.0
 Author: David Hervas Marin
 Maintainer: David Hervas Marin <ddhervas@yahoo.es>
+Imports: shiny
 Description: Generates passwords from simple words
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.2.1
